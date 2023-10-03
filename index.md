@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ## News
 News and important messages about the course will be posted here.
 
